@@ -1,0 +1,90 @@
+
+
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.title{
+	font-size: 36px;
+	line-height: 36px;
+	border-bottom: solid black 2px;
+	margin-top: 40px;
+}
+#par1{
+	font-size: 24px;
+	line-height: 32px;
+	margin-top: 40px;
+}
+.headers{
+	font-size: 32px;
+	line-height: 32px;
+}
+.inglist{
+	font-size: 20px;
+	line-height: 26px;
+	margin-bottom: 40px;
+}
+.ingrediënts>li{
+	padding-bottom: 10px;
+}
+.instructlist{
+	font-size: 20px;
+	line-height: 26px;
+}
+.instructions>li{
+	padding-bottom: 20px;
+}
+#gehaktb_foto{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+#text_tip{
+	border: 0px solid;
+	border-radius: 4px;
+	background-color: #def6ed;
+	margin-left: 25px;
+	font-size: 20px;
+	line-height: 26px;
+	display: inline;
+	float: left;
+}
+span{
+	font-weight: bold;
+}
+.webpage{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right: auto;
+	margin-left: auto;
+}
+.link{
+	display: inline-block;
+	margin-right: 5px;
+	border: 0px solid;
+	border-radius: 5px;
+	background-color: black;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+
+#parvoorg{
+	font-size: 24px;
+	line-height: 32px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+#cala_img{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
+#parnaag{
+	font-size: 24px;
+	line-height: 32px;
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+#schuim_img{
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
